@@ -1,4 +1,4 @@
-name: pnnx
+name: pnnxN
 on:
   push:
     branches: [master]
